@@ -1,0 +1,2 @@
+# Automatic-Classification-of-Bank-Customer-Complaints-Using-Natural-Language-Processing-Techniques
+Classification of bank customer complaints into predefined categories (e.g., credit reporting, debt collection, mortgages) using Natural Language Processing (NLP) techniques. It focuses on text preprocessing, exploratory data analysis, and preparing text data for machine learning models to improve efficiency in financial complaint management.
