@@ -29,8 +29,6 @@ Complaint description (text)
 Complaint category
 Other metadata related to customer complaints
 
-# Dataset source example:
-
 # CFPB Consumer Complaint Database
 https://www.consumerfinance.gov/data-research/consumer-complaints/
 
@@ -72,16 +70,14 @@ Confusion Matrix
 ROC Curve and AUC
 These metrics help determine how well the models classify customer complaints into the correct categories.
 
-# Exploratory Data Analysis
-
-Exploratory analysis was performed to understand the dataset characteristics.
-# Key analyses include:
+# Key analysis include:
 Distribution of complaint categories
 Text length analysis
 Word frequency analysis
 Category imbalance inspection
 Results
 The models were compared to determine which algorithm performs best for complaint classification.
+
 # Key findings:
 
 NLP techniques can effectively classify bank customer complaints.
